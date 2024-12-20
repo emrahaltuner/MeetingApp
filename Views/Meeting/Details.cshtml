@@ -1,0 +1,11 @@
+@model UserInfo
+@{
+ViewBag.Title = "Katılımcı Detayı";
+}
+@{var durum =Model.WillAttend ==true ? "Evet" : "Hayır";}
+<h1 class="h4">Katılımcı Detayı</h1>
+<p>Sıra : @Model.Id</p>
+<p>Adı : @Model.Name</p>
+<p>Email : @Model.Email</p>
+<p>Telefon : @Model.Telefon</p>
+<p>Katılma : @durum</p>
