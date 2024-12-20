@@ -30,3 +30,4 @@
 /Users/emrahaltuner/development/aspNetCore/MeetingApp/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cs
 /Users/emrahaltuner/development/aspNetCore/MeetingApp/bin/Debug/net8.0/libman.json
 /Users/emrahaltuner/development/aspNetCore/MeetingApp/bin/Debug/net8.0/MeetingApp.staticwebassets.runtime.json
+/Users/emrahaltuner/development/aspNetCore/MeetingApp/obj/Debug/net8.0/MeetingApp.sourcelink.json
