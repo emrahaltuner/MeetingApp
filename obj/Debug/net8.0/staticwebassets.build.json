@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HU+/QvAPjFjWdR8MRvRxyPunpqv49xXm5+8QotLcNG0=",
+  "Hash": "WvcwDEZ0v661op5OJ4d1d5kN1RO1nOui8yPQajqznoM=",
   "Source": "MeetingApp",
   "BasePath": "_content/MeetingApp",
   "Mode": "Default",
@@ -16,6 +16,27 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "/Users/emrahaltuner/development/aspNetCore/MeetingApp/wwwroot/css/style.css",
+      "SourceId": "MeetingApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/emrahaltuner/development/aspNetCore/MeetingApp/wwwroot/",
+      "BasePath": "_content/MeetingApp",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pmzjvc1yea",
+      "Integrity": "IfoB2gOwI/1GzAYDMt0WW3P521fANM4j5iQDp85l6j4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/style.css"
+    },
     {
       "Identity": "/Users/emrahaltuner/development/aspNetCore/MeetingApp/wwwroot/lib/bootstrap/css/bootstrap-grid.css",
       "SourceId": "MeetingApp",
@@ -2874,6 +2895,88 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "css/style.css",
+      "AssetFile": "/Users/emrahaltuner/development/aspNetCore/MeetingApp/wwwroot/css/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "102"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IfoB2gOwI/1GzAYDMt0WW3P521fANM4j5iQDp85l6j4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 18:03:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IfoB2gOwI/1GzAYDMt0WW3P521fANM4j5iQDp85l6j4="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.pmzjvc1yea.css",
+      "AssetFile": "/Users/emrahaltuner/development/aspNetCore/MeetingApp/wwwroot/css/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "102"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IfoB2gOwI/1GzAYDMt0WW3P521fANM4j5iQDp85l6j4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 18:03:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pmzjvc1yea"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IfoB2gOwI/1GzAYDMt0WW3P521fANM4j5iQDp85l6j4="
+        }
+      ]
+    },
     {
       "Route": "lib/bootstrap/css/bootstrap-grid.css",
       "AssetFile": "/Users/emrahaltuner/development/aspNetCore/MeetingApp/wwwroot/lib/bootstrap/css/bootstrap-grid.css",
